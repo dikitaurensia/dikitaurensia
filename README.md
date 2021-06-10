@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dikitaurensia)](https://github.com/dikitaurensia/github-readme-stats)
+[![Diki's GitHub stats](https://github-readme-stats.vercel.app/api?username=dikitaurensia&show_icons=true&theme=radical)](https://github.com/dikitaurensia/github-readme-stats)
+
 
 <!--
 **dikitaurensia/dikitaurensia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
