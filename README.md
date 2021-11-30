@@ -2,6 +2,7 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=dikitaurensia)](https://github.com/dikitaurensia) [![GitHub followers](https://img.shields.io/github/followers/dikitaurensia.svg?style=social&label=Follow)](https://github.com/dikitaurensia?tab=followers)
 
 <h2>Hey! 👋</h2>
+
 I'm Diki Taurens Sia! 
 - <i>Currently:</i> Software Developer at Easy Accounting System. 
 - <i>Previously:</i> Software Developer at SANBE FARMA.
