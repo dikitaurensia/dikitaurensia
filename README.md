@@ -1,10 +1,10 @@
 ![Banner](https://github.com/dikitaurensia/dikitaurensia/blob/main/banner.jpg)
 
-<h3 align="center">8+ year experiences in helping to build technologies in startup companies and enterprise companies.</h3>
+<h2>Hey! 👋</h2>
 
-<!-- Most Used Languages 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikitaurensia&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&langs_count=8&theme=dark"/>
-</p>-->
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=dikitaurensia)](https://github.com/dikitaurensia) [![GitHub followers](https://img.shields.io/github/followers/dikitaurensia.svg?style=social&label=Follow)](https://github.com/dikitaurensia?tab=followers)
+
+<h3 align="center">8+ year experiences in helping to build technologies in startup companies and enterprise companies.</h3>
 
 <h2>👀 Stats</h2>
 <div>
