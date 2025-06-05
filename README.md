@@ -3,12 +3,11 @@
 
 <h2>Hey! 👋</h2>
 
-I'm Diki Taurens Sia! 
-- <i>Currently:</i> Software Developer at Easy Accounting System. 
-- <i>Previously:</i> Software Developer at SANBE FARMA.
+I'm Diki Taurens Sia!  
+- <i>Currently:</i> Software Developer @superapp.  
+- <i>Previously:</i> Software Developer at Easy Accounting System and SANBE FARMA.
 
-
-<h3 align="center">8+ year experiences in helping to build technologies in startup companies and enterprise companies.</h3>
+<h3 align="center">11+ years of experience helping to build technologies in startup and enterprise companies.</h3>
 
 <h2>👀 Stats</h2>
 <div>
